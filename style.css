@@ -29,7 +29,7 @@ body {
     background: -webkit-linear-gradient(138deg, rgba(194,33,23,1) 0%, rgba(170,67,9,1) 100%);
     background: linear-gradient(138deg, rgba(194,33,23,1) 0%, rgba(170,67,9,1) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#c22117",endColorstr="#aa4309",GradientType=1);
-    height: 100vh;
+    height: 90vh;
     width: 100%;
     display: flex;
     flex-direction: column;
