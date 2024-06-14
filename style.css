@@ -29,7 +29,7 @@ body {
     background: -webkit-linear-gradient(138deg, rgba(194,33,23,1) 0%, rgba(170,67,9,1) 100%);
     background: linear-gradient(138deg, rgba(194,33,23,1) 0%, rgba(170,67,9,1) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#c22117",endColorstr="#aa4309",GradientType=1);
-    height: 90vh;
+    height: 100vh;
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -784,7 +784,7 @@ body {
 
 .testimoni>main>.penggeser {
     overflow: hidden;
-    width: 130px;
+    width: 110px;
     /* padding: 0 2%; */
     /* background-color: white; */
     color: black;
@@ -800,7 +800,7 @@ body {
         /* min-width: 700; */
         /* gap: 10vw; */
         /* max-width: 700 ; */
-        width: 1690px;
+        width: 1430px;
         max-height: 100%;
         display: flex;
         flex-direction: row;
@@ -816,7 +816,7 @@ body {
         flex-direction: column;
         justify-content:center;
         align-items: center;
-        width: 120px;
+        width: 100px;
         /* max-width: 100vw; */
         max-height: 100%;
         /* max-height: 100%; */
@@ -1031,7 +1031,6 @@ body {
     text-align: center;
     font-weight: 700;
     margin: 0 0 20%;
-    text-transform: uppercase;
 }
 
 .footer>div {
